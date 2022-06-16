@@ -77,13 +77,21 @@ sebuah bahasa pemrograman dengan pengetikan statis yang berjalan pada Mesin Virt
 
 1. **Mature** : Kotlin adalah bahasa pemrograman modern namun sudah matang yang bertujuan untuk membuat developer lebih senang.
 2. **Concise** : Ringkas dan dapat dioperasikan dengan Java dan bahasa lain, dan menyediakan banyak cara untuk menggunakan kembali kode di antara berbagai platform untuk pemrograman yang produktif.
+
+
 <a href="https://ibb.co/D9tXRd7"><img src="https://i.ibb.co/fk2RxJC/Whats-App-Image-2022-06-16-at-07-43-41.jpg" alt="Whats-App-Image-2022-06-16-at-07-43-41" border="0"></a>
+
 3. **Safe Code** : Kotlin menjamin agar kode yang kita tulis sebisa mungkin tidak terjadi error saat proses kompilasi. Contoh salah satu fiturnya yaitu null-safety.
+
+
 <a href="https://ibb.co/6sPNrP9"><img src="https://i.ibb.co/7yWbjWM/Whats-App-Image-2022-06-16-at-07-44-03.jpg" alt="Whats-App-Image-2022-06-16-at-07-44-03" border="0"></a>
+
 4. **Versatile** : Dapat digunakan untuk pengembangan aplikasi mobile, client-side mau pun server-side.
 Interoperable with Java : Dapat dijalankan bersamaan denga bahasa pemrograman java.
 5. **More faetures** : Kotlin memiliki fitur yang beraneka ragam. Contohnya lambda expression + inline-function, null-safety, coroutines, scope functions, when expressions, companion object, data classes, dan lain-lain.
 6. **Cross Platform**
+
+
 <a href="https://ibb.co/J591Kwj"><img src="https://i.ibb.co/XSqQbrx/Whats-App-Image-2022-06-16-at-07-44-30.jpg" alt="Whats-App-Image-2022-06-16-at-07-44-30" border="0"></a>
 
 ## IDE 
