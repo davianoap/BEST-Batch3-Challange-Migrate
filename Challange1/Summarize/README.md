@@ -127,6 +127,10 @@ Storage yang digunakan oleh Investree ada 5 yaitu :
 ## CI/CD
 ci cd merupakan
 
+## Version Control
+
+## Code Quality Analysis
+
 ## Sources 🗞️
 
 - https://toghr.com/alasan-belajar-java/
