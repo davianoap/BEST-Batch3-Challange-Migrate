@@ -124,6 +124,16 @@ Storage yang digunakan oleh Investree ada 5 yaitu :
 4. **Elastic Search** untuk mempercepat dalam pencarian
 5. **RabbitMQ** untuk memproses message queue agar tidak timeout
 
+## Sources
+
+- https://toghr.com/alasan-belajar-java/
+- https://id.wikipedia.org/wiki/Kotlin_(bahasa_pemrograman)
+- https://www.enigmacamp.com/belajar-bahasa-pemrograman-kotlin-di-tahun-2021/#:~:text=Kelebihan%20Kotlin.&text=Contoh%20salah%20satu%20fiturnya%20yaitu,memiliki%20fitur%20yang%20beraneka%20ragam.
+- https://kotlinlang.org/
+- https://medium.com/easyread/mengapa-memilih-java-6b0491146494#:~:text=Kelebihan%20utama%20dari%20Java%20adalah,Perpustakaan%20yang%20lengkap.
+- https://github.com/Ileriayo/markdown-badges
+- https://glints.com/id/lowongan/pekerjaan-back-end-developer/#.Yqpv-XZBy3A
+
 
 
 
