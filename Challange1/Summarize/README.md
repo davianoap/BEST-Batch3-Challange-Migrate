@@ -125,6 +125,7 @@ Storage yang digunakan oleh Investree ada 5 yaitu :
 5. **RabbitMQ** untuk memproses message queue agar tidak timeout
 
 ## CI/CD
+ci cd merupakan
 
 ## Sources 🗞️
 
