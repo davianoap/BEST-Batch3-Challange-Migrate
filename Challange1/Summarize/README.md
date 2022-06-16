@@ -124,6 +124,8 @@ Storage yang digunakan oleh Investree ada 5 yaitu :
 4. **Elastic Search** untuk mempercepat dalam pencarian
 5. **RabbitMQ** untuk memproses message queue agar tidak timeout
 
+## CI/CD
+
 ## Sources 🗞️
 
 - https://toghr.com/alasan-belajar-java/
