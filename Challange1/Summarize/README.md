@@ -1,14 +1,14 @@
 # Summarize 15 Juni 2022 😍
 Mentor : Mas Rio Swarawan
 
-## Poin Pembahasan 🙌
+# Poin Poin 🙌
 
-1. What is Backend?
-2. Tech Stack di Investree
-3. Java
-4. Kotlin
-5. IDE
-6. Storage di Investree
+  - [What is Backend?](#what-is-backend)
+  - [Tech Stack di Investree](#tech-stack-di-investree)
+  - [Java](#java)
+  - [Kotlin](#kotlin)
+  - [IDE](#ide)
+  - [Storage](#storage)
 
 ## What is Backend?
 Backend developer biasanya bekerja di server side, dan segala hal yang berhubungan dengan server biasanya diurus oleh Backend Developer. Backend Developer berfokus pada database,scripting, dan arsitektur dari sebuah aplikasi. dan Backend developer bertugas untuk membuat API. 
@@ -109,6 +109,20 @@ Software khusus yang menyediakan beragam fitur untuk mengembangkan software. IDE
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ## Storage
+
+Storage yang digunakan oleh Investree ada 5 yaitu :
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+1. **MySql** sebagai database Utama
+2. **PostgreSQL** ada 2 database yaitu LEGACY dan Newcore
+3. **Redis** digunakan karena in memory sehingga ketika ada beberapa user yang misal mengakses website secara bersamaan tidak perlu melakukan komputasi berulang
+4. **Elastic Search** untuk mempercepat dalam pencarian
+5. **RabbitMQ** untuk memproses message queue agar tidak timeout
 
 
 
