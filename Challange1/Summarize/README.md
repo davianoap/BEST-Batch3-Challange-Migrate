@@ -133,6 +133,7 @@ Storage yang digunakan oleh Investree ada 5 yaitu :
 - https://medium.com/easyread/mengapa-memilih-java-6b0491146494#:~:text=Kelebihan%20utama%20dari%20Java%20adalah,Perpustakaan%20yang%20lengkap.
 - https://github.com/Ileriayo/markdown-badges
 - https://glints.com/id/lowongan/pekerjaan-back-end-developer/#.Yqpv-XZBy3A
+- https://www.rakamin.com/virtual-internship-experience/investree-backend-developer
 
 
 
