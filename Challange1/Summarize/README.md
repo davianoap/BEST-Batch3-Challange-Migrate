@@ -9,6 +9,10 @@ Mentor : Mas Rio Swarawan
   - [Kotlin](#kotlin)
   - [IDE](#ide)
   - [Storage](#storage)
+  - [CI/CD](#cicd)
+  - [Version Control](#version-control)
+  - [Code Quality Analysis](#code-quality-analysis)
+  - [Sources 🗞️](#sources-️)
 
 ## What is Backend?
 Backend developer biasanya bekerja di server side, dan segala hal yang berhubungan dengan server biasanya diurus oleh Backend Developer. Backend Developer berfokus pada database,scripting, dan arsitektur dari sebuah aplikasi. dan Backend developer bertugas untuk membuat API. 
@@ -125,11 +129,45 @@ Storage yang digunakan oleh Investree ada 5 yaitu :
 5. **RabbitMQ** untuk memproses message queue agar tidak timeout
 
 ## CI/CD
-ci cd merupakan
+**Continuous integration (CI)** adalah pengintegrasian kode ke dalam repositori kode kemudian menjalankan pengujian secara otomatis, cepat, dan sering. Kamu dapat melakukan CI ini dengan menggunakan perintah  commit.
+
+**Continous delivery atau continuous deployment (CD)** adalah praktik yang dilakukan setelah proses CI selesai dan seluruh kode berhasil terintegrasi, sehingga aplikasi bisa dibangun lalu dirilis secara otomatis.
+
+<img src ="https://miro.medium.com/max/850/1*lLko1uApoWelFy7ZUA-Tpg.jpeg">
+
+**Manfaat CI/CD**
+
+* Mendapat feedback lebih cepat
+* Dapat mendeteksi bug lebih cepat
+* Dapat mempercepat proses rilis
+
+**Tools CI/CD**
+
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Version Control
 
+Version control adalah sebuah sistem yang merekam perubahan-perubahan dari sebuah berkas atau sekumpulan berkas dari waktu ke waktu sehingga Anda dapat menilik kembali versi khusus suatu saat nanti. Sebagai contoh, pada buku ini Anda akan menggunakan sumber kode perangkat lunak sebagai berkas-berkas yang direkam dengan version control, walau pada kenyataannya Anda dapat melakukan ini dengan hampir semua jenis berkas pada komputer.
+
+**Contoh Version Control**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Apache_Subversion_logo.svg/1200px-Apache_Subversion_logo.svg.png">
+
+**Perbedaan Git dan Subversion**
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gtTgnKJ/Whats-App-Image-2022-06-17-at-08-54-16.jpg" alt="Whats-App-Image-2022-06-17-at-08-54-16" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+
 ## Code Quality Analysis
+
+Code Quality Analysis sendiri berfungsi untuk menganalisa/menanalisis code yan sudah di buat oleh developer nantinya tools code quality anaylsis ini dapat memberikan mana code yang berkualitas buruk dan mana code yang perlu diperbaiki, tools ini juga memberikan saran bukan hanya menyalahkan saja
+
+**Contoh Tools Code Quality Analysis**
+
+<img width="50%" src="https://sonarcloud.io/images/marketing/og-image/sonarcloud.png">
+
 
 ## Sources 🗞️
 
@@ -141,6 +179,8 @@ ci cd merupakan
 - https://github.com/Ileriayo/markdown-badges
 - https://glints.com/id/lowongan/pekerjaan-back-end-developer/#.Yqpv-XZBy3A
 - https://www.rakamin.com/virtual-internship-experience/investree-backend-developer
+- https://www.dicoding.com/blog/apa-itu-ci-cd/
+- https://git-scm.com/book/id/v2/Memulai-Tentang-Version-Control
 
 
 
